@@ -12,7 +12,7 @@
 
   - ⚡ I'm not a professional, just a hobbyist
 
-  - 📫 How to reach me [Luwei@mail.com](mailto:Luwei@mail.com)
+  - 📫 How to reach me [Kadriye@yeah.net](mailto:Kadriye@yeah.net)
 
   - 🔭 Welcome to my Blog: [**Kadriye Blog**](https://blog.1314047.xyz)
 
