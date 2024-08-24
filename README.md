@@ -1,5 +1,10 @@
+## 
 
-## Hi, I'm Kadriye   👋
+<h1 align="center">
+  <a href="https://blog.iove.eu.org">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi, I'm Kadriye   ;只想(听风，看云，做个懒骨头)">
+  </a>
+</h1>
 
 
 - [![badge](https://img.shields.io/badge/知识库-Wiki-34ABE0?&style=flat-square)](https://wiki.1314047.xyz/)
@@ -14,6 +19,15 @@
   - 🔭 Welcome to my Blog: [**Kadriye Blog**](https://blog.1314047.xyz)
 
   - Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://pan.1314047.xyz/) visitor, Thank You!🎉🎉
+
+    <details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
+    *我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
+
+    - **USDT-TRC20:** `TEuWqS9GD8Ji1fJmBJvFitZAyRao27vAor`
+
+ <!-- 线 -->
+
+ <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
     </a>
 
@@ -48,4 +62,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-
