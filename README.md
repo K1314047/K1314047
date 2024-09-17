@@ -6,13 +6,13 @@
 
 
 - [![badge](https://img.shields.io/badge/知识库-Wiki-34ABE0?&style=flat-square)](https://wiki.1314047.xyz/)
-  [![badge](https://img.shields.io/badge/友链%20%26%20导航站-Nav-yellow?&style=flat-square)](https://pan.1314047.xyz/)
+  [![badge](https://img.shields.io/badge/友链%20%26%20导航站-Nav-yellow?&style=flat-square)](https://nav.1314047.xyz/)
   [![badge](https://img.shields.io/badge/博客-Digest-green?&style=flat-square)](https://blog.1314047.xyz/)
   [![badge](https://img.shields.io/badge/朋友圈-Memos-orange?&style=flat-square)](https://pyq.1314047.xyz/)
 
   - ⚡ I'm not a professional, just a hobbyist
 
-  - 📫 How to reach me [Kadriye@yeah.net](mailto:Kadriye@yeah.net)
+  - 📫 How to reach me [123028@proton.me](mailto:123028@proton.me)
 
   - 🔭 Welcome to my Blog: [**Kadriye Blog**](https://blog.1314047.xyz)
 
