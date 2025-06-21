@@ -20,7 +20,7 @@
 
     <details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
     
-    - **USDT-TRC20:** `TEuWqS9GD8Ji1fJmBJvFitZAyRao27vAor`
+    - **USDT-BEP20:** `bnb1mvhvtdmlsmppz0vhmuu2zllwkc3f3hj95cp3wp`
 
  <!-- 线 -->
 
