@@ -18,9 +18,7 @@
 
   - Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://pan.1314047.xyz/) visitor, Thank You!🎉🎉
 
-    <details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
-    
-    - **USDT-BEP20:** `bnb1mvhvtdmlsmppz0vhmuu2zllwkc3f3hj95cp3wp`
+
 
  <!-- 线 -->
 
