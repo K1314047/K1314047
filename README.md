@@ -7,13 +7,11 @@
 
 &emsp;&emsp;&emsp;&emsp;  a coder who mainly uses python, typescript and docker
 <br><br>
-&emsp;&emsp;&emsp;&emsp;a builder who writes bots for telegram,
+&emsp;&emsp;&emsp;&emsp;  a builder who writes bots for telegram,
 <br><br>
-&emsp;&emsp;&emsp;&emsp;      monitors crypto, rss, servers and everything
-
+&emsp;&emsp;&emsp;&emsp;  monitors crypto, rss, servers and everything
 <br><br>
-
-&emsp;&emsp;&emsp;&emsp;     that refuses to stay quiet
+&emsp;&emsp;&emsp;&emsp;  that refuses to stay quiet
 
 <br>
 
